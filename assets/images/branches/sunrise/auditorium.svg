@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="Kinder-Garten public school auditorium">
+  <rect width="900" height="520" fill="#ffedd5"/>
+  <rect x="110" y="180" width="680" height="240" rx="14" fill="#9a3412"/>
+  <rect x="150" y="220" width="600" height="18" fill="#fdba74"/>
+  <rect x="150" y="260" width="600" height="18" fill="#fdba74"/>
+  <rect x="150" y="300" width="600" height="18" fill="#fdba74"/>
+  <text x="240" y="138" font-size="44" fill="#7c2d12" font-family="Segoe UI, Arial">Morning Assembly Hall</text>
+</svg>

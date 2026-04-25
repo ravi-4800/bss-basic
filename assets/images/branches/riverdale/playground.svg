@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="Jai Maa Saraswati Public School playground">
+  <rect width="900" height="520" fill="#d9f99d"/>
+  <rect x="100" y="240" width="700" height="210" rx="18" fill="#65a30d"/>
+  <circle cx="260" cy="280" r="40" fill="#fef08a"/>
+  <circle cx="450" cy="300" r="40" fill="#fef08a"/>
+  <circle cx="640" cy="280" r="40" fill="#fef08a"/>
+  <text x="260" y="118" font-size="44" fill="#3f6212" font-family="Segoe UI, Arial">School Sports Ground</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="Babu Surendra Singh Inter College library">
+  <rect width="900" height="520" fill="#eff6ff"/>
+  <rect x="140" y="140" width="620" height="280" rx="12" fill="#1e3a8a"/>
+  <rect x="180" y="180" width="60" height="180" fill="#93c5fd"/>
+  <rect x="260" y="180" width="60" height="180" fill="#60a5fa"/>
+  <rect x="340" y="180" width="60" height="180" fill="#93c5fd"/>
+  <rect x="420" y="180" width="60" height="180" fill="#60a5fa"/>
+  <rect x="500" y="180" width="60" height="180" fill="#93c5fd"/>
+  <text x="245" y="112" font-size="40" fill="#1e3a8a" font-family="Segoe UI, Arial">Branch Library</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="Kinder-Garten public school campus front">
+  <rect width="900" height="520" fill="#fff7ed"/>
+  <rect x="140" y="165" width="620" height="285" rx="12" fill="#c2410c"/>
+  <rect x="420" y="250" width="70" height="200" fill="#ffedd5"/>
+  <rect x="220" y="220" width="80" height="70" fill="#fdba74"/>
+  <rect x="600" y="220" width="80" height="70" fill="#fdba74"/>
+  <text x="190" y="140" font-size="32" fill="#7c2d12" font-family="Segoe UI, Arial">Kinder-Garten public school</text>
+</svg>

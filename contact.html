@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact | Babu Surendra Singh School Group</title>
+    <meta name="description" content="Contact Babu Surendra Singh School Group for admissions and branch information.">
+    <link rel="icon" href="assets/images/common/logo.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script defer src="assets/js/main.js"></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="index.html">
+          <img src="assets/images/common/logo.svg" alt="Babu Surendra Singh logo">
+          <span>Babu Surendra Singh School Group</span>
+        </a>
+        <nav class="nav-links">
+          <a href="index.html">Home</a>
+          <a href="about.html">About</a>
+          <a href="branches.html">Branches</a>
+          <a href="admissions.html">Admissions</a>
+          <a href="gallery.html">Gallery</a>
+          <a href="contact.html">Contact</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="page-banner">
+        <div class="container">
+          <h1 class="section-title">Contact Us</h1>
+          <p class="section-subtitle">Use the enquiry form below. Replace the action URL with your Formspree or Netlify endpoint.</p>
+        </div>
+      </section>
+
+      <section>
+        <div class="container contact-grid">
+          <article class="panel">
+            <h2>General Office</h2>
+            <p>Email: info@brightfuture.edu</p>
+            <p>Phone: +91 99999 10000</p>
+            <p>Office Hours: Monday to Saturday, 9:00 AM - 5:00 PM</p>
+          </article>
+
+          <article class="panel">
+            <h2>Admission Enquiry</h2>
+            <form action="https://formspree.io/f/your-form-id" method="POST">
+              <label for="name">Parent Name</label>
+              <input id="name" name="name" type="text" required>
+
+              <label for="email">Email</label>
+              <input id="email" name="email" type="email" required>
+
+              <label for="branchSelect">Preferred Branch</label>
+              <select id="branchSelect" name="branch" required>
+                <option value="">Choose a branch</option>
+              </select>
+
+              <label for="message">Message</label>
+              <textarea id="message" name="message" rows="4" required></textarea>
+
+              <button class="btn btn-primary" type="submit">Send Enquiry</button>
+            </form>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <small id="footerSchoolText">Babu Surendra Singh School Group</small>
+        <small>&copy; 2026 Babu Surendra Singh School Group</small>
+      </div>
+    </footer>
+  </body>
+</html>

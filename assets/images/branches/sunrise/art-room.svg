@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="Kinder-Garten public school art room">
+  <rect width="900" height="520" fill="#fef3c7"/>
+  <rect x="100" y="290" width="700" height="120" rx="12" fill="#b45309"/>
+  <rect x="200" y="180" width="110" height="100" fill="#f97316"/>
+  <rect x="380" y="180" width="110" height="100" fill="#fb923c"/>
+  <rect x="560" y="180" width="110" height="100" fill="#fdba74"/>
+  <text x="220" y="128" font-size="44" fill="#7c2d12" font-family="Segoe UI, Arial">Art Room Activities</text>
+</svg>

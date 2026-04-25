@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="Babu Surendra Singh Inter College campus front">
+  <rect width="900" height="520" fill="#e7f8ec"/>
+  <rect x="150" y="160" width="600" height="290" rx="12" fill="#2f855a"/>
+  <rect x="420" y="260" width="70" height="190" fill="#f8fafc"/>
+  <rect x="220" y="210" width="80" height="60" fill="#d1fae5"/>
+  <rect x="600" y="210" width="80" height="60" fill="#d1fae5"/>
+  <text x="180" y="145" font-size="30" fill="#166534" font-family="Segoe UI, Arial">Babu Surendra Singh Inter College</text>
+</svg>

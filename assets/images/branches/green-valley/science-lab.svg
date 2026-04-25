@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="Babu Surendra Singh Inter College science lab">
+  <rect width="900" height="520" fill="#f0fdf4"/>
+  <rect x="80" y="300" width="740" height="120" rx="12" fill="#166534"/>
+  <circle cx="220" cy="260" r="46" fill="#22c55e"/>
+  <circle cx="450" cy="250" r="54" fill="#16a34a"/>
+  <circle cx="670" cy="260" r="46" fill="#22c55e"/>
+  <text x="120" y="130" font-size="46" fill="#166534" font-family="Segoe UI, Arial">Science Lab Session</text>
+  <text x="120" y="180" font-size="26" fill="#15803d" font-family="Segoe UI, Arial">Students performing practical experiments</text>
+</svg>

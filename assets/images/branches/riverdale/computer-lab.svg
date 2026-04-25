@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="Jai Maa Saraswati Public School computer lab">
+  <rect width="900" height="520" fill="#f0f9ff"/>
+  <rect x="90" y="300" width="720" height="120" rx="10" fill="#0f172a"/>
+  <rect x="150" y="200" width="140" height="90" rx="8" fill="#38bdf8"/>
+  <rect x="330" y="200" width="140" height="90" rx="8" fill="#38bdf8"/>
+  <rect x="510" y="200" width="140" height="90" rx="8" fill="#38bdf8"/>
+  <text x="120" y="132" font-size="44" fill="#0c4a6e" font-family="Segoe UI, Arial">Computer Lab Learning</text>
+</svg>
